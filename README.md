@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vagish Shandilya
 - 👀 I’m interested in Computer Science and Gaming
 - 🌱 I’m currently learning Python, Java Script
-- 💞️ I’m looking to collaborate with someone for [IDK]
+- 💞️ I’m looking to .................. 
 - 📫 How to reach me - shandilyavagish@gmail.com
 
 <!---
