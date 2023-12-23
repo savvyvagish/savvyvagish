@@ -1,7 +1,7 @@
 Hi, I’m Vagish Shandilya
  
   How to reach me - vagishshandilya@hotmail.com
-                    vagishshandilya@proton.me
+                    
 <!---
 savvyvagish/savvyvagish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
