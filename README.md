@@ -1,8 +1,15 @@
-Hi, I’m Vagish Shandilya
- 
-  How to reach me - vagishshandilya@hotmail.com
-                    
-<!---
-savvyvagish/savvyvagish is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Hi there! 👋
+
+I'm Vagish Shandilya, currently in 12th class and living in India.
+
+🌐 **Connect with me:**
+- [GitHub](https://github.com/savvyvagish)
+- [Instagram](https://www.instagram.com/)
+
+📧 **Contact:**
+- Email: vagishshandilya@hotmail.com
+
+👤 **About me:**
+- Age: 17
+
+Feel free to explore my repositories and connect with me. Happy coding! 🚀
