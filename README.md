@@ -1,6 +1,5 @@
 # Hi there, I'm Vagish Shandilya! 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=savvyvagish&color=brightgreen)
 
 ## About Me
 
