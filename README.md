@@ -29,7 +29,7 @@
 
 ## 🚀 Projects
 
-### 📍 [Project 1: Awesome Web App](https://github.com/savvyvagish/PythonBrowser)
+### 📍 [Project 1: Web Browser](https://github.com/savvyvagish/PythonBrowser)
 A web browser made with Python
 
 
