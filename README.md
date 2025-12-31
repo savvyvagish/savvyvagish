@@ -2,9 +2,9 @@
 
 I like understanding how things work — software, systems, servers, and the internet itself.
 
-Some days I’m building an app,  
-some days I’m messing with Linux,  
-some days I’m setting up servers or domains.  
+Some days I’m building an app,    
+some days I’m setting up servers or domains,
+some days I’m messing with Linux.
 
 I’m not focused on one path right now — just exploring, breaking things, fixing them, and learning along the way.
 
@@ -12,7 +12,7 @@ I’m not focused on one path right now — just exploring, breaking things, fix
 
 ## What I’m Currently Exploring
 
-- Programming fundamentals (Python, JavaScript)
+- Programming fundamentals (Python, JavaScript, C, C++)
 - Desktop apps (Electron, macOS)
 - Linux and self-hosting
 - Networking basics (VPNs, servers)
