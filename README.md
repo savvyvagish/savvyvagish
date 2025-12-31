@@ -37,8 +37,8 @@ Most of my work is learning-driven — small projects, setups, and experiments.
 
 ## Connect
 
-- X (Twitter): https://twitter.com/savvyvagish  
-- Instagram: https://instagram.com/savvyvagish  
+- Instagram: https://instagram.com/savvyvagish
+- Mail: vagishshandilya@hotmail.com 
 
 ---
 
