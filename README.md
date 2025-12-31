@@ -8,25 +8,11 @@ some days I’m messing with Linux.
 
 I’m not focused on one path right now — just exploring, breaking things, fixing them, and learning along the way.
 
----
 
-## What I’m Currently Exploring
-
-- Programming fundamentals (Python, JavaScript, C, C++)
-- Desktop apps (Electron, macOS)
-- Linux and self-hosting
-- Networking basics (VPNs, servers)
-- Domains, websites, and how the web actually works
-
----
-
-## Projects & Experiments
+## Projects
 
 - **TheNotepad**  
   A minimalist desktop text editor built with Electron.
-
-- **WireGuard VPN (self-hosted)**  
-  Personal experiment with hosting and configuring a VPN server.
 
 - **Python Browser**  
   A small experimental web browser built using Python.
