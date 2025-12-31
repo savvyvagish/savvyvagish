@@ -1,48 +1,45 @@
-# Hi there, I'm Vagish Shandilya! 👋
+# Hi, I’m Vagish Shandilya 👋
 
+I like understanding how things work — software, systems, servers, and the internet itself.
 
-## About Me
+Some days I’m building an app,  
+some days I’m messing with Linux,  
+some days I’m setting up servers or domains.  
 
-- 🧑‍🎓 **Age:** 18
-- 📚 **Education:** Currently in 12th grade
-- 💻 **Passionate About:** Technology and innovation
-- 🎓 **Aspiring:** Software Developer
-
----
-
-## 🌟 Tech Enthusiast & Lifelong Learner
-
-
-### 💼 Skills & Interests
-
-- **Programming Languages:** Python, JavaScript
-- **Interests:** AI, Machine Learning, Cybersecurity, Open Source
-
-### 🌐 Connect with Me
-
-[![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=blue)](https://twitter.com/savvyvagish)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=pink)](https://instagram.com/savvyvagish)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savvyvagish)
+I’m not focused on one path right now — just exploring, breaking things, fixing them, and learning along the way.
 
 ---
 
-## 🚀 Projects
+## What I’m Currently Exploring
 
-### 📍 [Project 1: Web Browser](https://github.com/savvyvagish/PythonBrowser)
-A web browser made with Python
-
-
----
-
-## 📊 GitHub Stats
-
-![Vagish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=savvyvagish&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savvyvagish&layout=compact&theme=radical)
+- Programming fundamentals (Python, JavaScript)
+- Desktop apps (Electron, macOS)
+- Linux and self-hosting
+- Networking basics (VPNs, servers)
+- Domains, websites, and how the web actually works
 
 ---
 
-Feel free to check out my repositories and projects. I'm always open to collaborating on exciting ideas and learning new things. Let's connect and create something amazing together!
+## Projects & Experiments
+
+- **TheNotepad**  
+  A minimalist desktop text editor built with Electron.
+
+- **WireGuard VPN (self-hosted)**  
+  Personal experiment with hosting and configuring a VPN server.
+
+- **Python Browser**  
+  A small experimental web browser built using Python.
+
+Most of my work is learning-driven — small projects, setups, and experiments.
 
 ---
 
-⭐️ From [Vagish Shandilya](https://github.com/savvyvagish)
+## Connect
+
+- X (Twitter): https://twitter.com/savvyvagish  
+- Instagram: https://instagram.com/savvyvagish  
+
+---
+
+Still learning. Still experimenting.
