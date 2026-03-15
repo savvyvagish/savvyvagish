@@ -17,7 +17,7 @@ I’m not focused on one path right now, just exploring, breaking things, fixing
 - **Python Browser**  
   A small experimental web browser built using Python.
 
-Most of my work is learning-driven — small projects, setups, and experiments.
+Most of my work is learning driven, small projects, setups, and experiments.
 
 ---
 
